@@ -1,2 +1,6 @@
 # AFPAFilRougeBibliotheque
-Projet fil rouge de formation CDI a l'afpa (Projet Bibliothèque)
+Projet Fil rouge de la formation CDI à l'afpa (Projet Bibliothèque)
+
+TimeLine: 
+02/04/2016: Structuration du projet
+			Preparation du projet pour eclipse
